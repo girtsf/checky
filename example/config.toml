@@ -1,0 +1,4 @@
+["1.csv"]
+search = [ "First", "Middle", "Last", "Email"]
+key = "Email"
+show = [ "First", "Middle", "Last", "Email", "Status"]
